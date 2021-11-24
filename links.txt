@@ -1,0 +1,5 @@
+// Joystick input
+https://exploreembedded.com/wiki/Analog_JoyStick_with_Arduino
+
+// Arduinos prata med varandra
+https://lastminuteengineers.com/nrf24l01-arduino-wireless-communication/
