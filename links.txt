@@ -3,3 +3,8 @@ https://exploreembedded.com/wiki/Analog_JoyStick_with_Arduino
 
 // Arduinos prata med varandra
 https://lastminuteengineers.com/nrf24l01-arduino-wireless-communication/
+
+// Stepper motor
+https://www.makerguides.com/a4988-stepper-motor-driver-arduino-tutorial/
+https://www.pjrc.com/teensy/td_libs_AccelStepper.html
+http://www.airspayce.com/mikem/arduino/AccelStepper/classAccelStepper.html#a176c5d2e4c2f21e9e92b12e39a6f0e67

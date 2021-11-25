@@ -24,13 +24,14 @@ void setup()
 
   Serial.begin(9600);
 }
+
 void loop()
 {
   int xVal = analogRead(joyX);
   int yVal = analogRead(joyY);
 
   // Define 
-  String str(String(xVal) + " " + String(yVal));
+  String str(xVal);
   
   // Length (with one extra character for the null terminator)
   int str_len = str.length() + 1; 
